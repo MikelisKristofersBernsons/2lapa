@@ -85,6 +85,35 @@ body {
 
 
 
+.diy-box {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 25px;
+	display: flex;
+	flex-wrap: wrap;
+	background-color: dodgerblue;
+}
+
+.db {
+	background-color: #a6eef7;
+	width: 300px;
+	height: 240px;
+	margin: 5px;
+	line-height: 35px;
+	font-size: 20px;
+}
+
+.txt-top {
+	text-align: center;
+	height: 40px;
+	width: 300px;
+	background-color: aquamarine;
+}
+
+.vid-box {
+	height: 200px;
+	background-color: blue
+}
 
 /*3 main columns*/
 
